@@ -1,5 +1,4 @@
 language: c
-os: osx
 script: make dep && make && make test
 compiler:
     -gcc
